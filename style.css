@@ -1,1 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+
+.big-container{
+   display: flex;
+   
+  }
+/* inizio navbar */
+.navbar{
+    display: flex;
+    flex-direction: row;
+
+    width: 1190px;
+    height: 60px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    padding: 12px;
+    
+    background-color: rgb(218, 165, 32);
+    border: dotted;
+}
+
+.left{
+    display: flex;
+    width: 230px;
+    background-color: rgb(218, 165, 32);
+   
+    
+}
+.centre{
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    background-color: rgb(218, 165, 32);
+    
+}
+
+
+.right{
+    display: flex;
+    width: 230px;
+    background-color: rgb(218, 165, 32);
+    justify-content: flex-end;
+}
+
+/* fine Navbar */
