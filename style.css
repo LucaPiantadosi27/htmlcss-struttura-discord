@@ -104,7 +104,6 @@
     margin-top: 50px;
     margin-bottom: 50px;
     
-  
     background-color:rgb(30, 144, 255);
     border: dotted;
 }
@@ -122,3 +121,82 @@
     border: dotted;
 }
 /* fine seconda section */
+
+.trhee{
+    display: flex;
+    
+    
+    width: 100%;
+    height: 600px;
+  
+    background-color:rgb(211, 211, 211);
+    border: dotted;
+    
+}
+
+#small{
+    display: flex;
+    width: 465px;
+    height: 490px;
+
+    
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  
+    background-color:rgb(255, 192, 203);
+    border: dotted;
+
+}
+#large{
+    display: flex;
+    width: 715px;
+    height: 490px;
+
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+    background-color:rgb(30, 144, 255);
+    border: dotted;
+
+}
+.four{
+    display: flex;
+    
+    
+    width: 100%;
+    height: 600px;
+  
+    background-color:white;
+    border: dotted;
+    
+}
+
+.five{
+    display: flex;
+    align-items: center;
+    
+    width: 100%;
+    height: 995px;
+  
+    background-color:rgb(211, 211, 211);
+    border: dotted;
+    
+}
+.green{
+    display: flex;
+   
+    width: 1185px;
+    height: 890px;
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  
+    background-color:green;
+    border: dotted;
+}
+
+
